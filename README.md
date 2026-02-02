@@ -11,12 +11,12 @@
 
 
 <p align="left">
-Atuo como dev front-end na Mutuus.<br />
+Atuo como dev front-end na Mutuus by Asaas.<br />
 Apaixonada por transformar ideias em interfaces funcionais,<br />
 e por resolver problemas reais com código e criatividade.<br /><br />
 
 ✨ Sempre em busca de evolução contínua, tanto técnica quanto pessoal.<br />
-Atualmente focada em me aprofundar em React, Next.js e boas práticas de acessibilidade e performance.<br /><br />
+Focada em me aprofundar em boas práticas de acessibilidade, performance e segurança.<br /><br />
 
 <p align="center">💫 💫 💫</p>
 
